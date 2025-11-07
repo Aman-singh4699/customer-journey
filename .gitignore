@@ -1,0 +1,12 @@
+# Global ignores
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.env
+venv/
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+*.log

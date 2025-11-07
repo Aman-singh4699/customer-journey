@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.env
+venv/
+.Python
+*.log
+
+# IDE & Cache
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
